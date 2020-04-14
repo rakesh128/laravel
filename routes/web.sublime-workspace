@@ -1,0 +1,269 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"array_",
+				"array_column"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"PHP",
+				"Snippet: <?php echo $this->… ?>"
+			],
+			[
+				"contt",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"",
+				"Bookmarks: Toggle"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/rakesh/Development/DockerApp/application/laravel/routes/test.blade.php",
+		"/home/rakesh/Development/DockerApp/application/laravel/routes/post.php",
+		"/home/rakesh/Development/DockerApp/application/laravel/composer.lock",
+		"/home/rakesh/Development/DockerApp/application/laravel/.gitignore",
+		"/home/rakesh/Development/DockerApp/application/laravel/routes/post.blade.php",
+		"/home/rakesh/Development/DockerApp/application/laravel/resources/views/test.blade.php",
+		"/home/rakesh/Development/DockerApp/composefiles/docker-compose.yml",
+		"/home/rakesh/Development/DockerApp/application/laravel/app/Http/Middleware/Authenticate.php",
+		"/home/rakesh/Development/DockerApp/application/laravel/app/Providers/AppServiceProvider.php",
+		"/home/rakesh/Development/DockerApp/application/laravel/routes/web.php",
+		"/home/rakesh/Development/DockerApp/application/laravel/resources/views/welcome.blade.php",
+		"/home/rakesh/Development/DockerApp/application/html/hello.html",
+		"/home/rakesh/Development/DockerApp/application/html/index.php",
+		"/home/rakesh/Development/DockerApp/application/html/test/index.html",
+		"/home/rakesh/Development/DockerApp/composefiles/conf.d/adminer.conf",
+		"/home/rakesh/Development/DockerApp/composefiles/conf.d/default.conf",
+		"/home/rakesh/Development/DockerApp/application/html/test.php",
+		"/home/rakesh/Development/DockerApp/composefiles/conf.d/test.php",
+		"/home/rakesh/Development/learning/hello.html",
+		"/home/rakesh/Development/learning/index.php",
+		"/home/rakesh/Development/learning/README.md",
+		"/home/rakesh/Development/DockerApp/composefiles/scripts/php-dockerfile"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"me",
+			"db_server",
+			"mysql_db_data",
+			"dev_db_data"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "web.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sess",
+				"laravel/config/session.php"
+			],
+			[
+				"midd",
+				"laravel/vendor/guzzlehttp/guzzle/src/Middleware.php"
+			],
+			[
+				"q",
+				"laravel/node_modules/async/queue.js"
+			],
+			[
+				"",
+				"laravel/routes/web.php"
+			],
+			[
+				"loginCont",
+				"laravel/app/Http/Controllers/login/LoginController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Development/DockerApp/application/laravel/routes/web.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 677.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
